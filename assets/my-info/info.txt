@@ -1,0 +1,4 @@
+Name: Raneem nono
+description:
+Trophies zone is an application for players who's interested in collecting games trophies
+it displays games reviews and allows the PS4/PS5 player to track their achievements and collect more trophies by check any trophy gained and displays the trophies statistics 
